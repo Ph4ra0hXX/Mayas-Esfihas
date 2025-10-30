@@ -13,7 +13,6 @@ const props = defineProps(["data"]);
             <div class="card__info">
               <img id="dividers" src="/divi.webp" alt="" />
               <h2>{{ data.nome }}</h2>
-              <p style="color: rgba(0, 0, 0, 0.596)">{{ data.descricao }}</p>
             </div>
             <h3 class="card__price"></h3>
 

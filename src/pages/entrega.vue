@@ -91,7 +91,7 @@ export default {
 
           carrinho.pedidos = [];
 
-          window.location.href = `https://wa.me/5588994634270?text=${this.pedidoMontado}`;
+          window.location.href = `https://wa.me/5588997542121?text=${this.pedidoMontado}`;
         } else {
           toast.warning("✏️ Preencha todos os campos", {
             timeout: 2000,
@@ -129,7 +129,7 @@ export default {
 
           carrinho.pedidos = [];
 
-          window.location.href = `https://wa.me/5588994634270?text=${this.pedidoMontado}`;
+          window.location.href = `https://wa.me/5588997542121?text=${this.pedidoMontado}`;
         } else {
           toast.warning("✏️ Preencha todos os campos", {
             timeout: 2000,
@@ -314,7 +314,9 @@ export default {
           v-if="carrinho.dadosPessoais.formaDePagamento == 'Pix'"
           class="input-field"
         >
-          <h4 style="margin: 20px 0; text-align: center;">Hedley Victor Linhares roberto</h4>
+          <h4 style="margin: 20px 0; text-align: center">
+            Hedley Victor Linhares roberto
+          </h4>
 
           <button id="butCopiarPix" @click="copyToClipboard">Copiar PIX</button>
         </div>
