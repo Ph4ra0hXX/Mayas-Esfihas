@@ -27,7 +27,7 @@ export default {
         { nome: "Bacon", quantidade: 0, preco: 0 },
         { nome: "Mussarela", quantidade: 0, preco: 0 },
         //{ nome: "Azeitona", quantidade: 0, preco: 0 },
-       // { nome: "Milho Verde", quantidade: 0, preco: 0 },
+        // { nome: "Milho Verde", quantidade: 0, preco: 0 },
         { nome: "Orégano", quantidade: 0, preco: 0 },
       ],
     });
@@ -202,12 +202,12 @@ export default {
 }
 #quantidadeDiv {
   font-weight: bold;
-  color: #fdd426;
+  color: #f2994b;
   font-size: 20px;
 }
 
 #textDividers {
-  color: #fdd426;
+  color: #f2994b;
   font-family: "Great Vibes";
   font-size: 40px;
   font-weight: lighter;
@@ -233,7 +233,7 @@ export default {
 }
 
 .botao1 {
-  background-color: #f2cb05;
+  background-color: #f2994b;
   color: #000000;
   border: none;
   padding: 5px 10px;
@@ -248,7 +248,7 @@ export default {
 }
 
 .botao2 {
-  background-color: #f2cb05;
+  background-color: #f2994b;
   color: #000000;
   border: none;
   padding: 5px 10px;

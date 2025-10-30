@@ -42,7 +42,7 @@ export default {
         { nome: "Calabresa", preco: 2.0, quantidade: 0 },
         { nome: "Batata Palha", preco: 1.0, quantidade: 0 },
         { nome: "Molho Barbecue", preco: 1.0, quantidade: 0 },
-       // { nome: "Milho Verde", preco: 1.0, quantidade: 0 },
+        // { nome: "Milho Verde", preco: 1.0, quantidade: 0 },
         { nome: "Maionese Golds (adicional)", preco: 0.5, quantidade: 0 },
       ],
       Verdura: [
@@ -277,12 +277,12 @@ export default {
 }
 #quantidadeDiv {
   font-weight: bold;
-  color: #fdd426;
+  color: #f2994b;
   font-size: 20px;
 }
 
 #textDividers {
-  color: #fdd426;
+  color: #f2994b;
   font-family: "Great Vibes";
   font-size: 40px;
   font-weight: lighter;
@@ -308,7 +308,7 @@ export default {
 }
 
 .botao1 {
-  background-color: #f2cb05;
+  background-color: #f2994b;
   color: #000000;
   border: none;
   padding: 5px 10px;
@@ -323,7 +323,7 @@ export default {
 }
 
 .botao2 {
-  background-color: #f2cb05;
+  background-color: #f2994b;
   color: #000000;
   border: none;
   padding: 5px 10px;

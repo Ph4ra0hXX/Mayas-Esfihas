@@ -92,7 +92,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 6,
           nome: "PORÇÕES",
-          img: "food3.webp",
+          img: "food3.png",
           descricao: "No ponto certo",
           url: "/batata",
         },
@@ -121,8 +121,15 @@ export const produtosStore2 = defineStore("produto2", {
       cardDataStore: [
         {
           id: 8,
-          nome: "SUPER",
-          img: "food6.webp",
+          nome: "ESFIRRAS",
+          img: "food1.png",
+          descricao: "Saborosas esfirras doces e salgadas",
+          url: "/esfirras",
+        },
+        {
+          id: 8,
+          nome: "COMBOS",
+          img: "food3.png",
           descricao: "Completo",
           url: "/combo",
         },
@@ -133,13 +140,7 @@ export const produtosStore2 = defineStore("produto2", {
           descricao: "Monte do seu jeito",
           url: "/burger",
         }, */
-        {
-          id: 8,
-          nome: "ESFIRRAS",
-          img: "food6.webp",
-          descricao: "Saborosas esfirras doces e salgadas",
-          url: "/esfirras",
-        },
+
         /*   {
           id: 2,
           nome: "MACARRONADA",
@@ -149,8 +150,8 @@ export const produtosStore2 = defineStore("produto2", {
         }, */
         {
           id: 6,
-          nome: "PORÇÕES",
-          img: "food3.webp",
+          nome: "PASTÉIS",
+          img: "food2.png",
           descricao: "No ponto certo",
           url: "/batata",
         },
@@ -178,13 +179,6 @@ export const produtosStore3 = defineStore("produto3", {
     return {
       cardDataStore: [
         {
-          id: 1,
-          nome: "BURGER",
-          img: "food1.webp",
-          descricao: "Monte do seu jeito",
-          url: "/burger",
-        },
-        {
           id: 8,
           nome: "ESFIRRAS",
           img: "food6.webp",
@@ -192,9 +186,17 @@ export const produtosStore3 = defineStore("produto3", {
           url: "/esfirras",
         },
         {
+          id: 1,
+          nome: "COMBOS",
+          img: "food1.webp",
+          descricao: "Monte do seu jeito",
+          url: "/burger",
+        },
+
+        {
           id: 6,
-          nome: "PORÇÕES",
-          img: "food3.webp",
+          nome: "PASTÉIS",
+          img: "food2.png",
           descricao: "No ponto certo",
           url: "/batata",
         },

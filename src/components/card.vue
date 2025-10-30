@@ -66,7 +66,7 @@ p {
   border-top-left-radius: 50%;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #fdd426;
+  background-color: #f2994b;
   padding-top: calc(100% * 1.18);
   transition: all 0.3s ease-out 0.1s;
   display: flex;
@@ -83,6 +83,7 @@ p {
   font-family: Barlow-Black;
   font-weight: 800;
   color: #141414;
+  letter-spacing: 2px;
 }
 .card__info p {
   margin-top: 5px;

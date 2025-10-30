@@ -152,7 +152,7 @@ label {
 }
 
 .container-checkbox input:checked ~ .checkmark {
-  background-color: #fdd426;
+  background-color: #f2994b;
 }
 
 .container-checkbox .checkmark:after {
@@ -183,7 +183,7 @@ label {
 
 #categoria {
   font-family: Barlow-Black;
-  color: #fdd426;
+  color: #f2994b;
   font-size: 25px;
   display: block;
   margin-bottom: 20px;
@@ -242,7 +242,7 @@ a {
 }
 
 #nomeDev {
-  color: #f2cb05;
+  color: #f2994b;
   margin-left: 5px;
 }
 
@@ -252,7 +252,7 @@ a {
   padding: 15px 30px;
   border-radius: 3px;
   border: 0;
-  background-color: #fdd426;
+  background-color: #f2994b;
   cursor: pointer;
   font-family: Barlow-SemiBold;
   font-size: 15px;
@@ -297,7 +297,7 @@ a {
 #logo {
   padding-top: 45px;
   height: 250px;
-  margin-bottom: 40px;
+  margin-bottom: 75px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -309,7 +309,7 @@ a {
 }
 
 #fixedContainer2 {
-  background-color: #f2cb05;
+  background-color: #f2994b;
   position: fixed;
   margin-top: 462px;
   width: 100px;
@@ -338,7 +338,7 @@ a {
 }
 
 #itens {
-  color: #f2cb05;
+  color: #f2994b;
   font-family: Barlow-SemiBold;
   font-size: 14px;
   line-height: 1.5;
@@ -352,7 +352,7 @@ a {
   align-items: center;
   height: 50px;
   border-radius: 8px 8px 8px 0;
-  background: #f2cb05;
+  background: #f2994b;
   z-index: 99;
   position: absolute;
   font-family: Barlow-SemiBold;

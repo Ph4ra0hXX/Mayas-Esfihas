@@ -45,8 +45,8 @@ function isSegunda() {
 </script>
 
 <template>
-<!--   <h2 id="fechados">No momento estamos fechados!</h2> -->
- <Card v-if="isWednesday()" v-for="data in diaDeMacarronada" :data="data" /> 
+  <!--   <h2 id="fechados">No momento estamos fechados!</h2> -->
+  <Card v-if="isWednesday()" v-for="data in diaDeMacarronada" :data="data" />
 
   <Card v-if="isThursday()" v-for="data in diaDeSuper" :data="data" />
 
@@ -55,7 +55,7 @@ function isSegunda() {
 
 <style>
 #fechados {
-  color: #fdd426;
+  color: #f2994b;
   text-align: center;
   font-family: Barlow-SemiBold;
   padding-bottom: 30px;

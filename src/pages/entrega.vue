@@ -41,7 +41,7 @@ export default {
         { key: "batatas", label: "*Porções*" },
         { key: "sobremesas", label: "*Sobremesas*" },
         { key: "bebidas", label: "*Bebidas*" },
-        { key: "combos", label: "*Super*" },
+        { key: "combos", label: "*Combos*" },
       ];
 
       categorias.forEach((cat) => {
@@ -388,7 +388,7 @@ export default {
   margin-right: 10px;
 }
 .checkout-card .title span {
-  color: #fdd426;
+  color: #f2994b;
 }
 .checkout-card .title p {
   font-size: 1.3rem;
@@ -432,9 +432,9 @@ export default {
   cursor: pointer;
 }
 .price-card input[type="radio"]:checked ~ label {
-  border: 1px solid #fdd426;
+  border: 1px solid #f2994b;
   background: #e4ec0d23;
-  color: #fdd426;
+  color: #f2994b;
   outline: none;
   border-width: 2px;
 }
@@ -443,7 +443,7 @@ export default {
   height: auto;
   border: 0;
 
-  accent-color: #fdd426;
+  accent-color: #f2994b;
   transform: scale(1.5);
 }
 .price-card .content {
@@ -484,7 +484,7 @@ export default {
   border: 1px solid #9ea0a9;
 }
 .input-field input:focus {
-  border: 1px solid #fdd426;
+  border: 1px solid #f2994b;
   outline: none;
 }
 .grid {
@@ -506,7 +506,7 @@ export default {
   width: 100%;
   padding: 1rem;
   letter-spacing: 0.8px;
-  background: #fdd426;
+  background: #f2994b;
   border: none;
   color: #fff;
   border-radius: 3px;
