@@ -122,7 +122,7 @@ export default {
           }
           this.pedidoMontado += `\n${"-".repeat(30)}\n`;
           this.pedidoMontado += `\n*Total:* _${(
-            Number(this.carrinho.getValorTotal) + 3
+            Number(this.carrinho.getValorTotal) + 5
           ).toFixed(2)}_\n`;
 
           this.pedidoMontado = encodeURIComponent(this.pedidoMontado);
@@ -339,9 +339,8 @@ export default {
         </div>
         <p id="textDescritivo">
           Caso tenha escolhido entrega, o valor<br />
-          de 3 reais será somado ao total.<br />
+          de 5 reais será somado ao total.<br />
         </p>
-
         <button @click="finalizarPedido()" class="btn">finalizar</button>
       </div>
     </div>

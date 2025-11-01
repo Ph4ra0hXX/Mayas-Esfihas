@@ -15,31 +15,31 @@ export default {
         {
           nome: "Esfirra - Calabresa com Queijo",
           descricao: "Sabor marcante e irresistível",
-          preco: 5.0,
+          preco: 6.0,
           quantidade: 0,
         },
         {
           nome: "Esfirra - Queijo com Salsinha",
           descricao: "Simples, leve e cheio de aroma",
-          preco: 5.0,
+          preco: 6.0,
           quantidade: 0,
         },
         {
           nome: "Esfirra - Carne Moída com Tomate e Cebola",
           descricao: "O tradicional que nunca sai de moda",
-          preco: 5.0,
+          preco: 6.0,
           quantidade: 0,
         },
         {
           nome: "Esfirra - Carne de Sol com Queijo Coalho",
           descricao: "Sabor nordestino que derrete na boca",
-          preco: 6.0,
+          preco: 6.5,
           quantidade: 0,
         },
         {
           nome: "Esfirra - Frango com Catupiry",
           descricao: "Cremoso, suculento e apaixonante",
-          preco: 5.0,
+          preco: 6.5,
           quantidade: 0,
         },
         {
@@ -51,7 +51,7 @@ export default {
         {
           nome: "Esfirra - Marguerita (Queijo, Manjericão e Tomate)",
           descricao: "Um toque italiano na sua mesa",
-          preco: 4.5,
+          preco: 5.5,
           quantidade: 0,
         },
       ],
