@@ -14,25 +14,25 @@ export default {
       batataFrita: [
         {
           nome: "Combo Apaixonados 💕",
-          preco: 43.9,
+          preco: 54.9,
           quantidade: 0,
           descricao: "6 salgadas tradicionais + 2 doces + 2 refri lata",
         },
         {
           nome: "Combo Família 👨‍👩‍👧‍👦",
-          preco: 78.99,
+          preco: 79.99,
           quantidade: 0,
           descricao: "12 salgadas tradicionais + 4 doces + 1 refri 1L",
         },
         {
           nome: "Combo Individual 😋",
-          preco: 21.9,
+          preco: 24.9,
           quantidade: 0,
           descricao: "3 salgadas tradicionais + 1 doce + refri lata",
         },
         {
           nome: "Combo Especiais 😍",
-          preco: 52.9,
+          preco: 59.9,
           quantidade: 0,
           descricao: "6 salgadas especiais + 2 doces + 1 refri lata",
         },
