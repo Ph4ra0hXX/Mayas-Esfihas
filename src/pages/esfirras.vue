@@ -204,7 +204,7 @@ export default {
     <div id="listar">
       <div class="dotted-line">
         <hr />
-        <span id="textDividers">Esfirras Salgadas</span>
+        <span id="textDividers">Esfirras Tradicionai</span>
         <hr />
       </div>
 
@@ -230,7 +230,7 @@ export default {
 
       <div class="dotted-line">
         <hr />
-        <span id="textDividers">Sabores tradicionais</span>
+        <span id="textDividers">Sabores Especiais</span>
         <hr />
       </div>
 
