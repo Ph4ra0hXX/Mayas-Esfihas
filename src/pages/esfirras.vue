@@ -204,7 +204,7 @@ export default {
     <div id="listar">
       <div class="dotted-line">
         <hr />
-        <span id="textDividers">Esfirras Tradicionai</span>
+        <span id="textDividers">Esfirras Tradicionais</span>
         <hr />
       </div>
 
