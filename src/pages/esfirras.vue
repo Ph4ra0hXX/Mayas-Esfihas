@@ -110,7 +110,7 @@ export default {
         {
           nome: "Esfirra - Chocolate com M&M’s",
           descricao: "Divertida e deliciosa",
-          preco: 6.5,
+          preco: 7.0,
           quantidade: 0,
         },
         {
