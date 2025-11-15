@@ -45,7 +45,7 @@ export default {
         {
           nome: "Esfirra - Frango, Bacon e Queijo",
           descricao: "Crocante e cheio de sabor",
-          preco: 5.5,
+          preco: 6.5,
           quantidade: 0,
         },
         {
